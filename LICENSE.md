@@ -1,4 +1,4 @@
-# 
+# automatic GIMP for PC | GIMP for Windows Tool | export-presets + non-destructive-editing is the best GIMP for PC | GIMP for Windows tool, featuring export-presets and
 
 
 
